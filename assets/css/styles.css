@@ -1,0 +1,22 @@
+body{
+    font-family: "Roboto Mono", monospace;
+
+}
+.fotografia{
+
+    border-radius: 10px;
+    width: 100px;
+}
+
+.principal{
+    display: flex;
+
+}
+
+.columna1{
+    width: 70%;
+}
+
+.column21{
+    width: 30%;
+}
